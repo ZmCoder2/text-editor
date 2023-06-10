@@ -27,4 +27,4 @@ When the user loads up the application then the user should have a registered se
 The use can register the service worker and they will have the static assets pre cached upon loading with the subsequent pages and static assets.
 
 ## Deployed Link
-###https://syntax-text-editor.herokuapp.com/
+### https://syntax-text-editor.herokuapp.com/
